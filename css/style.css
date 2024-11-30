@@ -1,0 +1,14 @@
+.navbar {
+  margin-bottom: 0;
+}
+
+.content-section {
+  height: 1000px;
+  background-color: #f8f9fa;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.navbar-collapse {
+  background-color: #ddd;
+}
